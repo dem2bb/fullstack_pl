@@ -72,9 +72,9 @@ button,
 select {
   text-transform: none;
 }
-[type="button"],
-[type="reset"],
-[type="submit"],
+[type='button'],
+[type='reset'],
+[type='submit'],
 button {
   -webkit-appearance: button;
 }
@@ -98,7 +98,7 @@ progress {
 ::-webkit-outer-spin-button {
   height: auto;
 }
-[type="search"] {
+[type='search'] {
   -webkit-appearance: textfield;
   outline-offset: -2px;
 }
@@ -146,7 +146,7 @@ summary {
     0px 12.5216px 10.0172px rgba(36, 32, 138, 0.04),
     0px 6.6501px 5.32008px rgba(36, 32, 138, 0.03),
     0px 2.76726px 2.21381px rgba(36, 32, 138, 0.02);
-  --main-font: "Lato", sans-serif;
+  --main-font: 'Lato', sans-serif;
   --grid-item: 1;
   --grid-mr-left: 30px;
   --grid-mr-top: 30px;
@@ -159,10 +159,10 @@ summary {
   font-style: normal;
   font-weight: 400;
   src: url(../fonts/Montserrat-Regular.eot);
-  src: url(../fonts/Montserrat-Regular.eot?#iefix) format("embedded-opentype"),
-    url(../fonts/Montserrat-Regular.woff) format("woff"),
-    url(../fonts/Montserrat-Regular.woff2) format("woff2"),
-    url(../fonts/Montserrat-Regular.ttf) format("truetype");
+  src: url(../fonts/Montserrat-Regular.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/Montserrat-Regular.woff) format('woff'),
+    url(../fonts/Montserrat-Regular.woff2) format('woff2'),
+    url(../fonts/Montserrat-Regular.ttf) format('truetype');
 }
 @font-face {
   font-display: swap;
@@ -170,10 +170,10 @@ summary {
   font-style: normal;
   font-weight: 500;
   src: url(../fonts/Montserrat-Medium.eot);
-  src: url(../fonts/Montserrat-Medium.eot?#iefix) format("embedded-opentype"),
-    url(../fonts/Montserrat-Medium.woff) format("woff"),
-    url(../fonts/Montserrat-Medium.woff2) format("woff2"),
-    url(../fonts/Montserrat-Medium.ttf) format("truetype");
+  src: url(../fonts/Montserrat-Medium.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/Montserrat-Medium.woff) format('woff'),
+    url(../fonts/Montserrat-Medium.woff2) format('woff2'),
+    url(../fonts/Montserrat-Medium.ttf) format('truetype');
 }
 @font-face {
   font-display: swap;
@@ -181,10 +181,10 @@ summary {
   font-style: normal;
   font-weight: 600;
   src: url(../fonts/Montserrat-SemiBold.eot);
-  src: url(../fonts/Montserrat-SemiBold.eot?#iefix) format("embedded-opentype"),
-    url(../fonts/Montserrat-SemiBold.woff) format("woff"),
-    url(../fonts/Montserrat-SemiBold.woff2) format("woff2"),
-    url(../fonts/Montserrat-SemiBold.ttf) format("truetype");
+  src: url(../fonts/Montserrat-SemiBold.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/Montserrat-SemiBold.woff) format('woff'),
+    url(../fonts/Montserrat-SemiBold.woff2) format('woff2'),
+    url(../fonts/Montserrat-SemiBold.ttf) format('truetype');
 }
 @font-face {
   font-display: swap;
@@ -192,10 +192,10 @@ summary {
   font-style: normal;
   font-weight: 700;
   src: url(../fonts/Montserrat-Bold.eot);
-  src: url(../fonts/Montserrat-Bold.eot?#iefix) format("embedded-opentype"),
-    url(../fonts/Montserrat-Bold.woff) format("woff"),
-    url(../fonts/Montserrat-Bold.woff2) format("woff2"),
-    url(../fonts/Montserrat-Bold.ttf) format("truetype");
+  src: url(../fonts/Montserrat-Bold.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/Montserrat-Bold.woff) format('woff'),
+    url(../fonts/Montserrat-Bold.woff2) format('woff2'),
+    url(../fonts/Montserrat-Bold.ttf) format('truetype');
 }
 @font-face {
   font-display: swap;
@@ -203,10 +203,10 @@ summary {
   font-style: normal;
   font-weight: 300;
   src: url(../fonts/Lato-Light.eot);
-  src: url(../fonts/Lato-Light.eot?#iefix) format("embedded-opentype"),
-    url(../fonts/Lato-Light.woff) format("woff"),
-    url(../fonts/Lato-Light.woff2) format("woff2"),
-    url(../fonts/Lato-Light.ttf) format("truetype");
+  src: url(../fonts/Lato-Light.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/Lato-Light.woff) format('woff'),
+    url(../fonts/Lato-Light.woff2) format('woff2'),
+    url(../fonts/Lato-Light.ttf) format('truetype');
 }
 @font-face {
   font-display: swap;
@@ -214,10 +214,10 @@ summary {
   font-style: normal;
   font-weight: 400;
   src: url(../fonts/Lato-Regular.eot);
-  src: url(../fonts/Lato-Regular.eot?#iefix) format("embedded-opentype"),
-    url(../fonts/Lato-Regular.woff) format("woff"),
-    url(../fonts/Lato-Regular.woff2) format("woff2"),
-    url(../fonts/Lato-Regular.ttf) format("truetype");
+  src: url(../fonts/Lato-Regular.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/Lato-Regular.woff) format('woff'),
+    url(../fonts/Lato-Regular.woff2) format('woff2'),
+    url(../fonts/Lato-Regular.ttf) format('truetype');
 }
 @font-face {
   font-display: swap;
@@ -225,10 +225,10 @@ summary {
   font-style: normal;
   font-weight: 700;
   src: url(../fonts/Lato-Bold.eot);
-  src: url(../fonts/Lato-Bold.eot?#iefix) format("embedded-opentype"),
-    url(../fonts/Lato-Bold.woff) format("woff"),
-    url(../fonts/Lato-Bold.woff2) format("woff2"),
-    url(../fonts/Lato-Bold.ttf) format("truetype");
+  src: url(../fonts/Lato-Bold.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/Lato-Bold.woff) format('woff'),
+    url(../fonts/Lato-Bold.woff2) format('woff2'),
+    url(../fonts/Lato-Bold.ttf) format('truetype');
 }
 html {
   box-sizing: border-box;
@@ -463,7 +463,7 @@ button {
   border-top: 1px solid var(--matter-helper-safari2);
   box-shadow: inset 0 1px transparent;
   box-sizing: border-box;
-  content: "";
+  content: '';
   display: block;
   height: 8px;
   margin-top: 6px;
@@ -680,7 +680,7 @@ button {
 .checkbox-label .checkmark:after {
   background-color: var(--accent-cl);
   border-radius: 50%;
-  content: "";
+  content: '';
   display: block;
   height: 12px;
   transition: opacity var(--fast) linear;
@@ -688,11 +688,11 @@ button {
 }
 .mobile-menu {
   background: linear-gradient(
-      180deg,
-      rgba(var(--gradient-bg-rgb), 0.8) 0,
-      var(--gradient-bg) 100%
-    ),
-    url(../images/menu/programmer-mobile.png);
+    180deg,
+    rgba(var(--gradient-bg-rgb), 0.8) 0,
+    var(--gradient-bg) 100%
+  );
+  /* url(../images/menu/programmer-mobile.png); */
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -716,7 +716,7 @@ button {
 }
 .mobile-menu-close {
   align-items: center;
-  content: "close menu";
+  content: 'close menu';
   display: flex;
   justify-content: center;
   position: absolute;
@@ -727,7 +727,7 @@ button {
   fill: var(--accent-cl);
 }
 .mobile-menu-logo {
-  content: "site logo";
+  content: 'site logo';
   display: block;
   left: 20px;
   position: absolute;
@@ -816,7 +816,7 @@ button {
 }
 .modal:after {
   background-image: url(../images/dots.svg);
-  content: "";
+  content: '';
   display: block;
   height: 10px;
   left: 15px;
@@ -1066,7 +1066,7 @@ button {
   background-image: url(../images/tabs/tab-before.svg);
   background-repeat: no-repeat;
   background-size: contain;
-  content: "";
+  content: '';
   display: block;
   height: 14px;
   left: -21px;
@@ -1227,7 +1227,7 @@ button {
     0 12.522px 10.017px rgba(36, 32, 138, 0.04),
     0 6.65px 5.32px rgba(36, 32, 138, 0.03),
     0 2.767px 2.214px rgba(36, 32, 138, 0.02);
-  content: "";
+  content: '';
   height: 28px;
   left: -2px;
   position: absolute;
@@ -1259,7 +1259,7 @@ button {
   background-image: url(../images/tabs/tab-before.svg);
   background-repeat: no-repeat;
   background-size: contain;
-  content: "";
+  content: '';
   display: block;
   height: 18px;
   left: -30px;
@@ -1307,7 +1307,7 @@ button {
   background-image: url(../images/preparation/ellipse.svg);
   background-repeat: no-repeat;
   background-size: contain;
-  content: "";
+  content: '';
   display: block;
   height: 14px;
   left: -5px;
@@ -1335,11 +1335,11 @@ button {
 }
 .promote {
   background: linear-gradient(
-      180deg,
-      rgba(var(--gradient-bg-rgb), 0.7) 0,
-      rgba(var(--gradient-bg-rgb), 0.95) 100%
-    ),
-    url(../images/promote/promote-mobile.png);
+    180deg,
+    rgba(var(--gradient-bg-rgb), 0.7) 0,
+    rgba(var(--gradient-bg-rgb), 0.95) 100%
+  );
+  /* url(../images/promote/promote-mobile.png); */
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1485,7 +1485,7 @@ button {
 .accordion button .icon:before {
   background: currentColor;
   border-radius: 2px;
-  content: "";
+  content: '';
   display: block;
   left: 50%;
   position: absolute;
@@ -1496,20 +1496,20 @@ button {
   height: 15px;
   width: 1px;
 }
-.accordion button[aria-expanded="true"] .icon {
+.accordion button[aria-expanded='true'] .icon {
   background-color: #4141e4;
 }
-.accordion button[aria-expanded="true"] .icon:focus,
-.accordion button[aria-expanded="true"] .icon:hover {
+.accordion button[aria-expanded='true'] .icon:focus,
+.accordion button[aria-expanded='true'] .icon:hover {
   background-color: var(--white-bg);
   border: 1px solid #4141e4;
   color: #4141e4;
 }
-.accordion button[aria-expanded="true"] .icon:after,
-.accordion button[aria-expanded="true"] .icon:before {
+.accordion button[aria-expanded='true'] .icon:after,
+.accordion button[aria-expanded='true'] .icon:before {
   transform: translate(-50%, -50%) rotate(45deg);
 }
-.accordion button[aria-expanded="true"] + .accordion-content {
+.accordion button[aria-expanded='true'] + .accordion-content {
   max-height: 1000px;
   opacity: 1;
   transition: all 0.2s linear;
@@ -1540,7 +1540,7 @@ button {
   background-image: url(../images/mentors/checkmark.svg);
   background-repeat: no-repeat;
   background-size: contain;
-  content: "";
+  content: '';
   display: block;
   height: 18px;
   left: 0;
@@ -1551,11 +1551,11 @@ button {
 }
 .study-form {
   background: linear-gradient(
-      180deg,
-      rgba(var(--gradient-bg-rgb), 0.56) 0,
-      var(--gradient-bg) 100%
-    ),
-    url(../images/study-form/woman-mobile.png);
+    180deg,
+    rgba(var(--gradient-bg-rgb), 0.56) 0,
+    var(--gradient-bg) 100%
+  );
+  /* url(../images/study-form/woman-mobile.png); */
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1623,7 +1623,7 @@ button {
 }
 .plan-wrapper:before {
   background-color: var(--primary-bg);
-  content: "";
+  content: '';
   display: block;
   height: calc(100% - 106px);
   left: 50%;
@@ -1679,7 +1679,7 @@ button {
   background-color: var(--accent-cl);
   border: 4px solid var(--white-bg);
   border-radius: 50%;
-  content: "";
+  content: '';
   display: block;
   height: 28px;
   top: 50%;
@@ -1744,7 +1744,7 @@ button {
   background-image: url(../images/mentors/checkmark.svg);
   background-repeat: no-repeat;
   background-size: contain;
-  content: "";
+  content: '';
   display: block;
   height: 18px;
   left: 0;
@@ -1807,7 +1807,7 @@ button {
   background-image: url(../images/tabs/tab-before.svg);
   background-repeat: no-repeat;
   background-size: cover;
-  content: "";
+  content: '';
   display: block;
   height: 18px;
   left: 0;
@@ -1977,7 +1977,7 @@ button {
   background-image: url(../images/tabs/tab-before.svg);
   background-repeat: no-repeat;
   background-size: cover;
-  content: "";
+  content: '';
   display: block;
   height: 18px;
   left: -28px;
@@ -2033,11 +2033,11 @@ button {
 }
 .course {
   background: linear-gradient(
-      180deg,
-      rgba(var(--gradient-bg-rgb), 0.68) 0,
-      rgba(var(--gradient-bg-rgb), 1) 100%
-    ),
-    url(../images/course/programmer-mobile.png);
+    180deg,
+    rgba(var(--gradient-bg-rgb), 0.68) 0,
+    rgba(var(--gradient-bg-rgb), 1) 100%
+  );
+  /* url(../images/course/programmer-mobile.png); */
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2986,7 +2986,7 @@ button {
   }
   .capabilities__box--top:after {
     background: var(--before-border-color);
-    content: "";
+    content: '';
     display: block;
     height: 159px;
     left: 50%;
