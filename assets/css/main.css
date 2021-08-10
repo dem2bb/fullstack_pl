@@ -2127,11 +2127,11 @@ button {
   }
   .mobile-menu {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.8) 0,
-        var(--gradient-bg) 100%
-      ),
-      url(../images/menu/programmer-tablet.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.8) 0,
+      var(--gradient-bg) 100%
+    );
+    /* url(../images/menu/programmer-tablet.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2250,8 +2250,8 @@ button {
     width: 250px;
   }
   .question {
-    background: linear-gradient(180deg, rgba(11, 11, 76, 0.48), #0b0b4c),
-      url(../images/question/question-code-desctop@1x.jpg);
+    background: linear-gradient(180deg, rgba(11, 11, 76, 0.48), #0b0b4c);
+    /* url(../images/question/question-code-desctop@1x.jpg); */
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -2330,11 +2330,11 @@ button {
   }
   .promote {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.7) 0,
-        rgba(var(--gradient-bg-rgb), 0.95) 100%
-      ),
-      url(../images/promote/promote-tablet.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.7) 0,
+      rgba(var(--gradient-bg-rgb), 0.95) 100%
+    );
+    /* url(../images/promote/promote-tablet.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2390,11 +2390,11 @@ button {
   }
   .study-form {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.56) 0,
-        var(--gradient-bg) 100%
-      ),
-      url(../images/study-form/woman-tablet.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.56) 0,
+      var(--gradient-bg) 100%
+    );
+    /* url(../images/study-form/woman-tablet.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2552,11 +2552,11 @@ button {
   }
   .course {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.68) 0,
-        rgba(var(--gradient-bg-rgb), 1) 100%
-      ),
-      url(../images/course/programmer-tablet.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.68) 0,
+      rgba(var(--gradient-bg-rgb), 1) 100%
+    );
+    /* url(../images/course/programmer-tablet.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2577,44 +2577,44 @@ button {
   screen and (min-width: 768px) and (min-resolution: 192dpi) {
   .mobile-menu {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.8) 0,
-        var(--gradient-bg) 100%
-      ),
-      url(../images/menu/programmer-tablet@2x.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.8) 0,
+      var(--gradient-bg) 100%
+    );
+    /* url(../images/menu/programmer-tablet@2x.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
   }
   .promote {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.7) 0,
-        rgba(var(--gradient-bg-rgb), 0.95) 100%
-      ),
-      url(../images/promote/promote-tablet@2x.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.7) 0,
+      rgba(var(--gradient-bg-rgb), 0.95) 100%
+    );
+    /* url(../images/promote/promote-tablet@2x.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
   }
   .study-form {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.56) 0,
-        var(--gradient-bg) 100%
-      ),
-      url(../images/study-form/woman-tablet@2x.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.56) 0,
+      var(--gradient-bg) 100%
+    );
+    /* url(../images/study-form/woman-tablet@2x.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
   }
   .course {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.68) 0,
-        rgba(var(--gradient-bg-rgb), 1) 100%
-      ),
-      url(../images/course/programmer-tablet@2x.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.68) 0,
+      rgba(var(--gradient-bg-rgb), 1) 100%
+    );
+    /* url(../images/course/programmer-tablet@2x.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2625,8 +2625,8 @@ button {
   screen and (min-width: 768px) and (-webkit-min-device-pixel-ratio: 2),
   screen and (min-width: 768px) and (min-resolution: 192dpi) {
   .question {
-    background: linear-gradient(180deg, rgba(11, 11, 76, 0.48), #0b0b4c),
-      url(../images/question/question-code-desctop@2x.jpg);
+    background: linear-gradient(180deg, rgba(11, 11, 76, 0.48), #0b0b4c);
+    /* url(../images/question/question-code-desctop@2x.jpg); */
   }
 }
 @media (min-width: 768px) and (min-width: 1280px) {
@@ -2882,11 +2882,11 @@ button {
   }
   .promote {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.7) 0,
-        rgba(var(--gradient-bg-rgb), 0.95) 100%
-      ),
-      url(../images/promote/promote-desktop.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.7) 0,
+      rgba(var(--gradient-bg-rgb), 0.95) 100%
+    );
+    /* url(../images/promote/promote-desktop.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2902,11 +2902,11 @@ button {
   }
   .study-form {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.56) 0,
-        var(--gradient-bg) 100%
-      ),
-      url(../images/study-form/woman-desktop.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.56) 0,
+      var(--gradient-bg) 100%
+    );
+    /* url(../images/study-form/woman-desktop.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3063,11 +3063,11 @@ button {
   }
   .course {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.68) 0,
-        rgba(var(--gradient-bg-rgb), 1) 100%
-      ),
-      url(../images/course/programmer-desktop.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.68) 0,
+      rgba(var(--gradient-bg-rgb), 1) 100%
+    );
+    /* url(../images/course/programmer-desktop.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3105,33 +3105,33 @@ button {
   screen and (min-width: 1280px) and (min-resolution: 192dpi) {
   .promote {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.7) 0,
-        rgba(var(--gradient-bg-rgb), 0.95) 100%
-      ),
-      url(../images/promote/promote-desktop@2x.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.7) 0,
+      rgba(var(--gradient-bg-rgb), 0.95) 100%
+    );
+    /* url(../images/promote/promote-desktop@2x.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
   }
   .study-form {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.56) 0,
-        var(--gradient-bg) 100%
-      ),
-      url(../images/study-form/woman-desktop@2x.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.56) 0,
+      var(--gradient-bg) 100%
+    );
+    /* url(../images/study-form/woman-desktop@2x.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
   }
   .course {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.68) 0,
-        rgba(var(--gradient-bg-rgb), 1) 100%
-      ),
-      url(../images/course/programmer-desktop@2x.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.68) 0,
+      rgba(var(--gradient-bg-rgb), 1) 100%
+    );
+    /* url(../images/course/programmer-desktop@2x.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3325,44 +3325,44 @@ button {
   screen and (min-resolution: 192dpi) {
   .mobile-menu {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.8) 0,
-        var(--gradient-bg) 100%
-      ),
-      url(../images/menu/programmer-mobile@2x.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.8) 0,
+      var(--gradient-bg) 100%
+    );
+    /* url(../images/menu/programmer-mobile@2x.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
   }
   .promote {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.7) 0,
-        rgba(var(--gradient-bg-rgb), 0.95) 100%
-      ),
-      url(../images/promote/promote-mobile@2x.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.7) 0,
+      rgba(var(--gradient-bg-rgb), 0.95) 100%
+    );
+    /* url(../images/promote/promote-mobile@2x.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
   }
   .study-form {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.56) 0,
-        var(--gradient-bg) 100%
-      ),
-      url(../images/study-form/woman-mobile@2x.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.56) 0,
+      var(--gradient-bg) 100%
+    );
+    /* url(../images/study-form/woman-mobile@2x.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
   }
   .course {
     background: linear-gradient(
-        180deg,
-        rgba(var(--gradient-bg-rgb), 0.68) 0,
-        rgba(var(--gradient-bg-rgb), 1) 100%
-      ),
-      url(../images/course/programmer-mobile@2x.png);
+      180deg,
+      rgba(var(--gradient-bg-rgb), 0.68) 0,
+      rgba(var(--gradient-bg-rgb), 1) 100%
+    );
+    /* url(../images/course/programmer-mobile@2x.png); */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3374,7 +3374,7 @@ button {
   screen and (-webkit-min-device-pixel-ratio: 2),
   screen and (min-resolution: 192dpi) {
   .question {
-    background: linear-gradient(180deg, rgba(11, 11, 76, 0.48), #0b0b4c),
-      url(../images/question/question-code-mob@2x.jpg);
+    background: linear-gradient(180deg, rgba(11, 11, 76, 0.48), #0b0b4c);
+    /* url(../images/question/question-code-mob@2x.jpg); */
   }
 }
